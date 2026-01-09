@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Carz -  For The Street (Official Music Video)",
+  "base_artist": "Carz",
+  "createdAt": "2026-01-09T12:51:33.639724Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My Carz",
+      "artist": "Snoop Dogg",
+      "has_synced": true,
+      "path": "select/01_My_Carz_Snoop_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Carz",
+      "artist": "Sir Mix-A-Lot",
+      "has_synced": true,
+      "path": "select/02_Carz_Sir_Mix-A-Lot.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "My Carz",
+      "artist": "Snoop Dogg",
+      "has_synced": true,
+      "path": "select/03_My_Carz_Snoop_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "My Carz",
+      "artist": "Snoop Dogg",
+      "has_synced": true,
+      "path": "select/04_My_Carz_Snoop_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "My Carz",
+      "artist": "Snoop Doggy Dogg",
+      "has_synced": true,
+      "path": "select/05_My_Carz_Snoop_Doggy_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "09. My Carz",
+      "artist": "Snoop Dogg",
+      "has_synced": true,
+      "path": "select/06_09._My_Carz_Snoop_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Assassin (feat. S.J.soldier & Carz) [Remix]",
+      "artist": "Ralph",
+      "has_synced": false,
+      "path": "select/07_Assassin_(feat._S.J.soldier_&_Carz)_[Remix]_Ralph.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "For The Street",
+      "artist": "Carz",
+      "has_synced": false,
+      "path": "select/pl_01_For_The_Street_Carz.txt"
+    }
+  ]
+}
